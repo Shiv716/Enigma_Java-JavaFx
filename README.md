@@ -8,8 +8,8 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
 
 ## Enigma Machine
 
-![First Window](images/intro1.png)
+<img src="images/Intro1.png" alt="First Window" width="500" height="300">
 
-![Second Window](images/intro2.png)
+![Second Window](images/Intro2.png)
 
 ![Final Window](images/EngimaClass.png)
