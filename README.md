@@ -27,11 +27,11 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
 
 To compile the application, use the following command:
  ```
-    javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -d out/production/Enigma src/EnigmaFolder/MainEnigma.java
+    javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -d src src/EnigmaFolder/MainEnigma.java
  ```
 To run the application, use the following command:
  ```
-    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp out/production/Enigma EnigmaFolder.MainEnigma
+    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp src EnigmaFolder.MainEnigma
  ```
 **Note**:
    - Replace /path/to/javafx-sdk/lib with the actual path to your JavaFX SDK's lib directory.
