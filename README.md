@@ -22,6 +22,21 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
    git clone https://github.com/Shiv716/Enigma_Java-JavaFx.git
    cd Enigma
 
+
+## Usage
+
+To compile the application, use the following command:
+ ```
+    javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -d out/production/Enigma src/EnigmaFolder/MainEnigma.java
+ ```
+To run the application, use the following command:
+ ```
+    java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp out/production/Enigma EnigmaFolder.MainEnigma
+ ```
+**Note**:
+   - Replace /path/to/javafx-sdk/lib with the actual path to your JavaFX SDK's lib directory.
+   - Replace /path/to/javafx-sdk/lib with the path to your JavaFX SDK's lib directory.
+
 ## Enigma Machine
 
 <img src="images/Intro1.png" alt="First Window" width="500" height="300">
