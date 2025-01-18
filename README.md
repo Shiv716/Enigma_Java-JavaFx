@@ -34,8 +34,8 @@ To run the application, use the following command:
     java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -cp src EnigmaFolder.MainEnigma
  ```
 **Note**:
-   - Replace /path/to/javafx-sdk/lib with the actual path to your JavaFX SDK's lib directory.
-   - Replace /path/to/javafx-sdk/lib with the path to your JavaFX SDK's lib directory.
+   - Replace "/path/to/javafx-sdk/lib" with the actual path to your JavaFX SDK's lib directory.
+   - Replace "/path/to/javafx-sdk/lib" with the path to your JavaFX SDK's lib directory.
 
 ## Enigma Machine
 
