@@ -8,8 +8,8 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
 
 ## Enigma Machine
 
-![First Window](images/drone-ui.png)
+![First Window](images/intro1.png)
 
-![Second Window](images/drone-ui.png)
+![Second Window](images/intro2.png)
 
-![Final Window](images/drone-ui.png)
+![Final Window](images/EngimaClass.png)
