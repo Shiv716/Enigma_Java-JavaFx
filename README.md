@@ -12,4 +12,4 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
 
 <img src="images/Intro2.png" alt="Second Window" width="500" height="300">
 
-<img src="images/EngimaClass.png" alt="Final Window" width="500" height="500">
+<img src="images/EngimaClass.png" alt="Final Window" width="500" height="400">
