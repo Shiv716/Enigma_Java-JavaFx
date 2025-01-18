@@ -17,7 +17,7 @@ Designed and developed a sophisticated cybersecurity project in Java and JavaFX,
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Shiv716/Enigma_Java-JavaFx.git
    cd Enigma
